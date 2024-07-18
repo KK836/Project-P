@@ -1,7 +1,9 @@
 # Project-P
 
+< 서비스 기획 > 
 
-![아이디어 분석, 벤치마킹 1](https://github.com/user-attachments/assets/d5320b9e-aea4-4cdd-af5c-e157ed0fc794)
+
+![아이디어 분석 벤치마킹 (1)](https://github.com/user-attachments/assets/e020c27e-f203-4dd2-b0a6-e13b2c75b0aa)
 
 ![정보 마인드 맵 작성 2](https://github.com/user-attachments/assets/f623ed5f-af0f-460b-9d08-e5a6197f00ca)
 

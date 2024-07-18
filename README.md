@@ -1,5 +1,23 @@
 # Project-P
 
+
+![아이디어 분석, 벤치마킹 1](https://github.com/user-attachments/assets/d5320b9e-aea4-4cdd-af5c-e157ed0fc794)
+
+![정보 마인드 맵 작성 2](https://github.com/user-attachments/assets/f623ed5f-af0f-460b-9d08-e5a6197f00ca)
+
+![서비스 흐름도 작성 3](https://github.com/user-attachments/assets/fa221366-70c4-4ca1-9f84-2575da5750a0)
+
+![화면 리스트 작성 4](https://github.com/user-attachments/assets/a19e26f9-3fd7-4a5d-a3e5-b8d7212c8b81)
+
+![화면 흐름도 작성 5](https://github.com/user-attachments/assets/a420018c-43b1-4d37-87a3-8dbfb545f94d)
+
+
+
+
+
+< 스토리 보드 작성 >
+
+
 1. 동의화면
 ![동의화면](https://github.com/user-attachments/assets/f1dcf3b5-e78f-42c6-904f-839c4fb40989)
 
